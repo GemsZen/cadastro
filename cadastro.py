@@ -1,3 +1,6 @@
+#lembrando que precisa usar o comando abaixo no terminal 
+#pip install PySimpleGUI
+
 from PySimpleGUI import PySimpleGUI as sg 
 
 sg.theme('Reddit')

@@ -22,5 +22,3 @@ while True:
             print('Bem-vindo jovem programador!')
 
 
-
-        

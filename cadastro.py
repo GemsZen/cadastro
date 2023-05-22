@@ -20,3 +20,4 @@ while True:
     if eventos == 'Entrar':
         if valores['usuario'] == 'gems' and valores['senha'] == '123456':
             print('Bem-vindo jovem programador!')
+
